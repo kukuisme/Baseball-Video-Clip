@@ -3,7 +3,7 @@
 
 - **Go to the cloned folder**:
   ```bash
-  cd yolov7-pose-estimation
+  cd Baseball-Video-Clip
   ```
 - **Create a virtual environment** (recommended):
   ```bash
