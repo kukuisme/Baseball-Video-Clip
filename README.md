@@ -19,7 +19,7 @@
   ```bash
   pip install -r requirements.txt
   ```
-- **Download YOLOv7 weights** 下載完放/yolov7-pose-estimation 底下 :
+- **Download YOLOv7 weights** 下載完放/Baseball-Video-Clip 底下 :
   [yolov7-w6-pose.pt](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt)
 
 - **Run the code**:
