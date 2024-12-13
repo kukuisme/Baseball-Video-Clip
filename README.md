@@ -8,7 +8,7 @@
 - **Create a virtual environment** (recommended):
   ```bash
   # Mac 確定local端有python3.10
-  python3 -m venv psestenv
+  python3.10 -m venv psestenv
   source psestenv/bin/activate
   ```
 - **Upgrade pip**:
